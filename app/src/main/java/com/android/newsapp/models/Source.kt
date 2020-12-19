@@ -1,4 +1,4 @@
-package com.android.newsapp
+package com.android.newsapp.models
 
 data class Source(
     val id: Any,
